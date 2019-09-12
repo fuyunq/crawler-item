@@ -3,7 +3,7 @@ package com.ziqun.crawleritem.crawler;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.ziqun.crawleritem.controller.JsoupUtil;
+import com.ziqun.crawleritem.util.JsoupUtil;
 import org.jsoup.nodes.Document;
 import org.springframework.stereotype.Service;
 

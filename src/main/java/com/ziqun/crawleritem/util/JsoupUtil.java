@@ -1,4 +1,4 @@
-package com.ziqun.crawleritem.controller;
+package com.ziqun.crawleritem.util;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
