@@ -22,6 +22,7 @@ public class Test {
     @RequestMapping("/pinduoduo")
     public PinduoduoItem hello(String id){
         System.out.println(id);
+        System.out.println("test");
         return pinDuoDuo.getItemInfo(id);
     }
 
